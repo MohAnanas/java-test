@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(collection.CollectionTestSpec, org.scalatest.tools.Framework$$anon$1@1b51d9ce, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(async.AsyncTestSpec, org.scalatest.tools.Framework$$anon$1@1b51d9ce, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(basic.BasicTestSpec, org.scalatest.tools.Framework$$anon$1@1b51d9ce, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBasicTestSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe Basic test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should compute power[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAsyncTestSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe Async test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should compute ceo and enterprise[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCollectionTestSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe Collection test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should compute some value for first method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe Collection test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should compute some value for second method[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 365 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	async.AsyncTestSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	basic.BasicTestSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	collection.CollectionTestSpec[0m
