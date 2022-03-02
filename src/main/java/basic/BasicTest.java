@@ -21,9 +21,6 @@ public class BasicTest {
           return Option.none();
         res = res * i;
       }
-      System.out.println(res);
-      System.out.println(Option.of(res));
-
       return Option.of(res);
     }
   }
